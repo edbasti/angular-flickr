@@ -1,2 +1,3 @@
 # angular-flickr
-Angular App Photo Search with Flickr
+
+Flickr Photo Search App using Angular
